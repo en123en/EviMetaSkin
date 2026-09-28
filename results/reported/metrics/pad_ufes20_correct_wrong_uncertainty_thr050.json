@@ -1,0 +1,10 @@
+{
+  "total_n": 2298,
+  "correct_n": 1724,
+  "wrong_n": 574,
+  "mean_uncertainty_correct": 0.5401102126923902,
+  "mean_uncertainty_wrong": 0.668526380864793,
+  "median_uncertainty_correct": 0.5980403125286102,
+  "median_uncertainty_wrong": 0.7090833783149719,
+  "uncertainty_gap_wrong_minus_correct": 0.12841616817240276
+}

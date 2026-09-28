@@ -1,0 +1,17 @@
+{
+  "mode": "recall_constraint",
+  "threshold": 0.59,
+  "validation_metrics_at_threshold": {
+    "accuracy": 0.8756476683937824,
+    "balanced_accuracy": 0.8874313605857229,
+    "precision": 0.6666666666666666,
+    "recall": 0.9090909090909091,
+    "f1": 0.7692307692307693,
+    "specificity": 0.8657718120224314,
+    "tp": 40,
+    "fp": 20,
+    "tn": 129,
+    "fn": 4,
+    "auc": 0.9484441732763881
+  }
+}

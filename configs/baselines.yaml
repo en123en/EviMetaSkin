@@ -1,0 +1,13 @@
+task: binary
+data_root: data/ISIC2018 Task3
+models:
+  - resnet50
+  - efficientnet_b0
+  - efficientnet_b3
+  - vit_b_16
+image_size: 224
+epochs: 30
+batch_size: 16
+balanced_sampler: true
+threshold_selection: recall_constraint
+minimum_validation_recall: 0.85

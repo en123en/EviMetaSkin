@@ -1,0 +1,7 @@
+﻿split,target,binary_label,count
+test,0,benign,1224
+test,1,malignant,288
+train,0,benign,8191
+train,1,malignant,1824
+validation,0,benign,149
+validation,1,malignant,44

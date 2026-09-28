@@ -1,0 +1,10 @@
+{
+  "n": 2298,
+  "ece": 0.10128395043287565,
+  "mce": 0.14877119319588616,
+  "brier": 0.17137417091523802,
+  "nll": 0.5188585604702601,
+  "mean_score": 0.4597892969039417,
+  "positive_rate": 0.47389033942558745,
+  "predictions": "results/classification/evivlm/binary/effb0_structmeta_ev005_recall085/external_validation/pad_ufes20_thr050/external_predictions.csv"
+}

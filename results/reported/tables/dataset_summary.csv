@@ -1,0 +1,4 @@
+﻿split,total_samples,matched_images,unique_lesions
+test,1512,1512,1223
+train,10015,10015,7470
+validation,193,193,145

@@ -1,0 +1,10 @@
+{
+  "n": 1512,
+  "ece": 0.11044983293802019,
+  "mce": 0.34583816853436555,
+  "brier": 0.12981825358676963,
+  "nll": 0.40601369395403775,
+  "mean_score": 0.2927969566807545,
+  "positive_rate": 0.19047619047619047,
+  "predictions": "results/classification/evivlm/binary/effb0_structmeta_ev005_recall085/test_predictions.csv"
+}

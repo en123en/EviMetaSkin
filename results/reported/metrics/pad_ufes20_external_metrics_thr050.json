@@ -1,0 +1,22 @@
+{
+  "accuracy": 0.7502175805047868,
+  "balanced_accuracy": 0.7504916067965921,
+  "precision": 0.7276746242263483,
+  "recall": 0.7557392102846648,
+  "f1": 0.7414414414414414,
+  "specificity": 0.7452440033023554,
+  "tp": 823,
+  "fp": 308,
+  "tn": 901,
+  "fn": 266,
+  "auc": 0.8352154525175054,
+  "threshold": 0.5,
+  "fps": 53.892451886422755,
+  "mean_uncertainty_correct": 0.5401102126923902,
+  "mean_uncertainty_wrong": 0.668526380864793,
+  "uncertainty_gap_wrong_minus_correct": 0.12841616817240276,
+  "n": 2298,
+  "manifest": "data/external_validation/pad_ufes20_external_manifest.csv",
+  "checkpoint": "results/classification/evivlm/binary/effb0_structmeta_ev005_recall085/best_model.pth",
+  "trained_run_name": "effb0_structmeta_ev005_recall085"
+}

@@ -1,0 +1,27 @@
+seed: 2026
+shared:
+  visual_backbone: efficientnet_b0
+  epochs: 30
+  batch_size: 16
+  balanced_sampler: true
+runs:
+  - name: image_ce
+    fusion_mode: visual_only
+    ce_weight: 1.0
+    evidential_weight: 0.0
+  - name: gated_metadata_ce
+    fusion_mode: gated
+    ce_weight: 1.0
+    evidential_weight: 0.0
+  - name: image_evidential
+    fusion_mode: visual_only
+    ce_weight: 0.95
+    evidential_weight: 0.05
+  - name: concat_metadata_evidential
+    fusion_mode: concat
+    ce_weight: 0.95
+    evidential_weight: 0.05
+  - name: gated_metadata_evidential
+    fusion_mode: gated
+    ce_weight: 0.95
+    evidential_weight: 0.05

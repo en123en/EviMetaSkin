@@ -1,0 +1,24 @@
+﻿split,class_index,diagnosis,count
+test,0,actinic keratosis,19
+test,1,basal cell carcinoma,93
+test,2,dermatofibroma,44
+test,3,melanoma,171
+test,4,nevus,909
+test,5,pigmented benign keratosis,217
+test,6,squamous cell carcinoma,24
+test,7,vascular lesion,35
+train,0,actinic keratosis,130
+train,1,basal cell carcinoma,514
+train,2,dermatofibroma,115
+train,3,melanoma,1113
+train,4,nevus,6705
+train,5,pigmented benign keratosis,1099
+train,6,squamous cell carcinoma,197
+train,7,vascular lesion,142
+validation,1,basal cell carcinoma,15
+validation,2,dermatofibroma,1
+validation,3,melanoma,21
+validation,4,nevus,123
+validation,5,pigmented benign keratosis,22
+validation,6,squamous cell carcinoma,8
+validation,7,vascular lesion,3

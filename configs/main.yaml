@@ -1,0 +1,18 @@
+experiment: evimetaskin_main
+task: binary
+data_root: data/ISIC2018 Task3
+visual_backbone: efficientnet_b0
+fusion_mode: gated
+image_size: 224
+metadata_dim: 11
+epochs: 30
+batch_size: 16
+optimizer: AdamW
+learning_rate: 0.0001
+weight_decay: 0.0001
+balanced_sampler: true
+ce_weight: 0.95
+evidential_weight: 0.05
+threshold_selection: recall_constraint
+minimum_validation_recall: 0.85
+seed: 2026

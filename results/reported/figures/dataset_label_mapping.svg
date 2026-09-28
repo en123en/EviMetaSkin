@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4000" height="1480" viewBox="0 0 4000 1480">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="290" y1="1205.00" x2="1905" y2="1205.00" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="278" y1="1205.00" x2="290" y2="1205.00" stroke="#4A4A4A" stroke-width="2"/>
+<text x="268.00" y="1222.00" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">0</text>
+<line x1="290" y1="1090.62" x2="1905" y2="1090.62" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="278" y1="1090.62" x2="290" y2="1090.62" stroke="#4A4A4A" stroke-width="2"/>
+<text x="268.00" y="1107.62" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">1000</text>
+<line x1="290" y1="976.25" x2="1905" y2="976.25" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="278" y1="976.25" x2="290" y2="976.25" stroke="#4A4A4A" stroke-width="2"/>
+<text x="268.00" y="993.25" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">2000</text>
+<line x1="290" y1="861.88" x2="1905" y2="861.88" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="278" y1="861.88" x2="290" y2="861.88" stroke="#4A4A4A" stroke-width="2"/>
+<text x="268.00" y="878.88" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">3000</text>
+<line x1="290" y1="747.50" x2="1905" y2="747.50" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="278" y1="747.50" x2="290" y2="747.50" stroke="#4A4A4A" stroke-width="2"/>
+<text x="268.00" y="764.50" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">4000</text>
+<line x1="290" y1="633.12" x2="1905" y2="633.12" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="278" y1="633.12" x2="290" y2="633.12" stroke="#4A4A4A" stroke-width="2"/>
+<text x="268.00" y="650.12" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">5000</text>
+<line x1="290" y1="518.75" x2="1905" y2="518.75" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="278" y1="518.75" x2="290" y2="518.75" stroke="#4A4A4A" stroke-width="2"/>
+<text x="268.00" y="535.75" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">6000</text>
+<line x1="290" y1="404.38" x2="1905" y2="404.38" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="278" y1="404.38" x2="290" y2="404.38" stroke="#4A4A4A" stroke-width="2"/>
+<text x="268.00" y="421.38" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">7000</text>
+<line x1="290" y1="290.00" x2="1905" y2="290.00" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="278" y1="290.00" x2="290" y2="290.00" stroke="#4A4A4A" stroke-width="2"/>
+<text x="268.00" y="307.00" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">8000</text>
+<rect x="290" y="290" width="1615" height="915" fill="none" stroke="#4A4A4A" stroke-width="2"/>
+<text x="125.00" y="747.50" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="62" font-weight="normal" fill="#222222" transform="rotate(-90 125.00 747.50)">Number of images</text>
+<text x="1097.50" y="1370.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="72" font-weight="700" fill="#222222">(a) ISIC2018 Task3</text>
+<rect x="328.36" y="438.12" width="125.16" height="766.88" fill="#4E79A7" stroke="#4A4A4A" stroke-width="1"/>
+<text x="390.94" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">NV</text>
+<text x="390.94" y="414.12" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">6705</text>
+<rect x="530.23" y="1077.70" width="125.16" height="127.30" fill="#B85650" stroke="#4A4A4A" stroke-width="1"/>
+<text x="592.81" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">MEL</text>
+<text x="592.81" y="1053.70" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">1113</text>
+<rect x="732.11" y="1079.30" width="125.16" height="125.70" fill="#4E79A7" stroke="#4A4A4A" stroke-width="1"/>
+<text x="794.69" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">BKL</text>
+<text x="794.69" y="1055.30" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">1099</text>
+<rect x="933.98" y="1146.21" width="125.16" height="58.79" fill="#B85650" stroke="#4A4A4A" stroke-width="1"/>
+<text x="996.56" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">BCC</text>
+<text x="996.56" y="1122.21" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">514</text>
+<rect x="1135.86" y="1182.47" width="125.16" height="22.53" fill="#B85650" stroke="#4A4A4A" stroke-width="1"/>
+<text x="1198.44" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">SCC</text>
+<text x="1198.44" y="1158.47" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">197</text>
+<rect x="1337.73" y="1188.76" width="125.16" height="16.24" fill="#4E79A7" stroke="#4A4A4A" stroke-width="1"/>
+<text x="1400.31" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">VASC</text>
+<text x="1400.31" y="1164.76" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">142</text>
+<rect x="1539.61" y="1190.13" width="125.16" height="14.87" fill="#4E79A7" stroke="#4A4A4A" stroke-width="1"/>
+<text x="1602.19" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">AK</text>
+<text x="1602.19" y="1166.13" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">130</text>
+<rect x="1741.48" y="1191.85" width="125.16" height="13.15" fill="#4E79A7" stroke="#4A4A4A" stroke-width="1"/>
+<text x="1804.06" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">DF</text>
+<text x="1804.06" y="1167.85" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">115</text>
+<rect x="1160" y="325" width="710" height="175" rx="22" ry="22" fill="white" stroke="#C8C8C8" stroke-width="2"/>
+<text x="1188.00" y="387.00" text-anchor="start" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" fill="#244D76">Non-malignant: 8191 (81.8%)</text>
+<text x="1188.00" y="455.00" text-anchor="start" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" fill="#8C302C">Malignant: 1824 (18.2%)</text>
+<line x1="2270" y1="1205.00" x2="3885" y2="1205.00" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="2258" y1="1205.00" x2="2270" y2="1205.00" stroke="#4A4A4A" stroke-width="2"/>
+<text x="2248.00" y="1222.00" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">0</text>
+<line x1="2270" y1="1022.00" x2="3885" y2="1022.00" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="2258" y1="1022.00" x2="2270" y2="1022.00" stroke="#4A4A4A" stroke-width="2"/>
+<text x="2248.00" y="1039.00" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">200</text>
+<line x1="2270" y1="839.00" x2="3885" y2="839.00" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="2258" y1="839.00" x2="2270" y2="839.00" stroke="#4A4A4A" stroke-width="2"/>
+<text x="2248.00" y="856.00" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">400</text>
+<line x1="2270" y1="656.00" x2="3885" y2="656.00" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="2258" y1="656.00" x2="2270" y2="656.00" stroke="#4A4A4A" stroke-width="2"/>
+<text x="2248.00" y="673.00" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">600</text>
+<line x1="2270" y1="473.00" x2="3885" y2="473.00" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="2258" y1="473.00" x2="2270" y2="473.00" stroke="#4A4A4A" stroke-width="2"/>
+<text x="2248.00" y="490.00" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">800</text>
+<line x1="2270" y1="290.00" x2="3885" y2="290.00" stroke="#E4E4E4" stroke-width="2"/>
+<line x1="2258" y1="290.00" x2="2270" y2="290.00" stroke="#4A4A4A" stroke-width="2"/>
+<text x="2248.00" y="307.00" text-anchor="end" font-family="Times New Roman, Times, serif" font-size="54" font-weight="normal" fill="#222222">1000</text>
+<rect x="2270" y="290" width="1615" height="915" fill="none" stroke="#4A4A4A" stroke-width="2"/>
+<text x="2105.00" y="747.50" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="62" font-weight="normal" fill="#222222" transform="rotate(-90 2105.00 747.50)">Number of images</text>
+<text x="3077.50" y="1370.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="72" font-weight="700" fill="#222222">(b) PAD-UFES-20</text>
+<rect x="2321.14" y="431.83" width="166.88" height="773.17" fill="#B85650" stroke="#4A4A4A" stroke-width="1"/>
+<text x="2404.58" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">BCC</text>
+<text x="2404.58" y="407.83" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">845</text>
+<rect x="2590.31" y="537.05" width="166.88" height="667.95" fill="#4E79A7" stroke="#4A4A4A" stroke-width="1"/>
+<text x="2673.75" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">AK</text>
+<text x="2673.75" y="513.05" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">730</text>
+<rect x="2859.48" y="981.74" width="166.88" height="223.26" fill="#4E79A7" stroke="#4A4A4A" stroke-width="1"/>
+<text x="2942.92" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">NV</text>
+<text x="2942.92" y="957.74" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">244</text>
+<rect x="3128.64" y="989.98" width="166.88" height="215.02" fill="#4E79A7" stroke="#4A4A4A" stroke-width="1"/>
+<text x="3212.08" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">BKL</text>
+<text x="3212.08" y="965.98" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">235</text>
+<rect x="3397.81" y="1029.32" width="166.88" height="175.68" fill="#B85650" stroke="#4A4A4A" stroke-width="1"/>
+<text x="3481.25" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">SCC</text>
+<text x="3481.25" y="1005.32" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">192</text>
+<rect x="3666.98" y="1157.42" width="166.88" height="47.58" fill="#B85650" stroke="#4A4A4A" stroke-width="1"/>
+<text x="3750.42" y="1275.00" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="56" font-weight="normal" fill="#222222">MEL</text>
+<text x="3750.42" y="1133.42" text-anchor="middle" font-family="Times New Roman, Times, serif" font-size="52" font-weight="normal" fill="#222222">52</text>
+<rect x="3140" y="325" width="710" height="175" rx="22" ry="22" fill="white" stroke="#C8C8C8" stroke-width="2"/>
+<text x="3168.00" y="387.00" text-anchor="start" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" fill="#244D76">Non-malignant: 1209 (52.6%)</text>
+<text x="3168.00" y="455.00" text-anchor="start" font-family="Times New Roman, Times, serif" font-size="48" font-weight="bold" fill="#8C302C">Malignant: 1089 (47.4%)</text>
+<rect x="90" y="130" width="90" height="54" fill="#4E79A7"/>
+<text x="204.00" y="178.00" text-anchor="start" font-family="Times New Roman, Times, serif" font-size="68" font-weight="bold" fill="#222222">Mapped to non-malignant</text>
+<rect x="1330" y="130" width="90" height="54" fill="#B85650"/>
+<text x="1444.00" y="178.00" text-anchor="start" font-family="Times New Roman, Times, serif" font-size="68" font-weight="bold" fill="#222222">Mapped to malignant</text>
+</svg>
